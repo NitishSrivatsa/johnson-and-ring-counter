@@ -1,1 +1,1 @@
-# simple-johnson-and-ring-counter-using-verilog
+# Simple Implementation of Johnson and Ring Counter using Verilog
